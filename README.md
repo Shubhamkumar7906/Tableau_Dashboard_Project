@@ -1,1 +1,1 @@
-# Tableau_Dashboard_Project
+ Explore Netflix's extensive content library with our data-driven Tableau dashboard. Uncover fascinating insights into the genre landscape through interactive bar charts that highlight genre popularity across countries and viewers.
